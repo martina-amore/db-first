@@ -1,0 +1,13 @@
+Catalogo automobili
+
+ID                          numero INT
+Marca                       stringa VARCHAR(100)
+Anno_immatricolazione       data YEAR
+Prezzo                      numero INT
+Tipologia                   stringa VARCHAR(30)
+Km                          numero INT
+Carburante                  stringa VARCHAR(10)
+Posti                       numero TINYINT
+Porte                       numero TINYINT
+Colore                      stringa VARCHAR(30)
+Classe_emissione            stringa VARCHAR(10)
